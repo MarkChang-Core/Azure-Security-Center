@@ -16,15 +16,19 @@
 
 為您的混合式雲端工作負載提供統一的安全性管理和威脅防護。 
 
-- Azure Defender 的一些主要功能：
+Azure Defender 的一些主要功能：
 
-  適用於端點的 Microsoft Defender - 適用於伺服器的 Azure Defender 包含 適用於端點的 Microsoft Defender，
+- 適用於端點的 Microsoft Defender - 
+  
+  適用於伺服器的 Azure Defender 包含 適用於端點的 Microsoft Defender，
 
   可讓您獲得完整的端點偵測和回應 (EDR) 功能。 
 
   若要深入了解搭配使用適用於端點的 Microsoft Defender 與 Azure Defender 的優點，請參閱使用資訊安全中心的整合式 EDR 解決方案。
 
-- 虛擬機器和容器登錄的弱點掃描 - 輕鬆地將掃描器部署到您所有的虛擬機器，以提供業界最先進的弱點管理解決方案。 
+- 虛擬機器和容器登錄的弱點掃描 - 
+  
+  輕鬆地將掃描器部署到您所有的虛擬機器，以提供業界最先進的弱點管理解決方案。 
 
   直接在資訊安全中心內檢視、調查和補救結果。
 
