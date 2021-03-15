@@ -1,8 +1,6 @@
 # Azure Security Center free 與 Azure Defender
 
-Azure Security 提供兩個模式：
-
-### 關閉 Azure Defender (免費) - 
+> 關閉 Azure Defender (免費) - 
 
 當您第一次造訪 Azure 入口網站中的 [Azure 資訊安全中心] 儀表板，或透過 API 以程式設計方式啟用此功能時，
 
@@ -12,7 +10,9 @@ Azure Security 提供兩個模式：
 
 ---
 
-### 開啟 Azure Defender - 
+> 開啟 Azure Defender (付費) - 
+
+※ Azure Defender 前 30 天免費。30 天以後的使用量都依以下定價方案自動收費。
 
 啟用 Azure Defender 會將免費模式的功能擴展到在私人雲端和其他公用雲端中執行的工作負載，
 
@@ -73,3 +73,18 @@ Azure Defender 的一些主要功能：
   包括：Azure Resource Manager、Azure DNS、Azure 網路層，以及 Azure Key Vault。 
 
   Azure Defender 對 Azure 管理層和 Azure DNS 層具有獨特的可見度，因此可保護已連線到這些層的雲端資源。
+  
+----
+
+> 定價
+
+|    **功能**   | **關閉 Azure Defender (免費)** | **開啟 Azure Defender (付費)** |
+| ----------------- | :----: | :----: |
+| 持續評估和安全性建議 | V | V |
+| Azure 安全分數 | V | V |
+| Just-in-Time VM 存取 | V | V |
+| 自適性應用程式控制和網路強化 | V | V |
+| 法遵儀表板和報表 (預覽) | V | V |
+| Azure VM 和非 Azure 伺服器 (包含伺服器 EDR) 的威脅保護 | V | V |
+| PaaS 服務的威脅保護 | V | V |
+| Microsoft Defender for Endpoint (servers) | V | V |
