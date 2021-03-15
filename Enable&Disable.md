@@ -14,20 +14,20 @@
 
 # 如何驗證安裝完成?
 
-**點擊左側刀鋒視窗中的「詳細目錄」即可查看Azure Denfender 是否已完成啟用 -**
+**點擊左側刀鋒視窗中的「詳細目錄」即可查看Azure Denfender 是否已完成啟用 - **
 
 ![GITHUB](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/image/image4.jpg)<br>
 
 # 如何關閉 Azure Defender?
 
-Step 1. 點擊左側刀鋒視窗中的「定價與設定」 -**
+**Step 1. 點擊左側刀鋒視窗中的「定價與設定」 -**
 
 ![GITHUB](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/image/image5.jpg)<br>
 
-Step 2. 點擊「Azure Defender 關閉」後，點選「儲存」 -**
+**Step 2. 點擊「Azure Defender 關閉」後，點選「儲存」 -**
 
 ![GITHUB](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/image/image6.jpg)<br>
 
-Step 3. 亦可針對單一資源類型進行關閉，點擊單一資源後方的「開啟/關閉」，點選「儲存」 -**
+**Step 3. 亦可針對單一資源類型進行關閉，點擊單一資源後方的「開啟/關閉」，點選「儲存」 -**
 
 ![GITHUB](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/image/image7.jpg)<br>
