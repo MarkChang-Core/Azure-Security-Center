@@ -20,7 +20,7 @@
 
 Azure Defender 的一些主要功能：
 
-- 適用於端點的 Microsoft Defender - 
+- **適用於端點的 Microsoft Defender -**
   
   適用於伺服器的 Azure Defender 包含 適用於端點的 Microsoft Defender，
 
