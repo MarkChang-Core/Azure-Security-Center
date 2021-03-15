@@ -14,7 +14,7 @@
 
 # 如何驗證安裝完成?
 
-**點擊左側刀鋒視窗中的「詳細目錄」即可查看Azure Denfender 是否已完成啟用 - **
+**點擊左側刀鋒視窗中的「詳細目錄」即可查看Azure Denfender 是否已完成啟用 -**
 
 ![GITHUB](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/image/image4.jpg)<br>
 
