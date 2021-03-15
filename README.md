@@ -88,3 +88,6 @@ Azure Defender 的一些主要功能：
 | Azure VM 和非 Azure 伺服器 (包含伺服器 EDR) 的威脅保護 |  | V |
 | PaaS 服務的威脅保護 |  | V |
 | Microsoft Defender for Endpoint (servers) |  | V |
+
+
+關於如何啟用 Azure Defender，請參考 [啟用方式]()
