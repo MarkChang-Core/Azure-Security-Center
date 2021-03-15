@@ -1,4 +1,4 @@
-# Azure Security Center
+# Azure 資訊安全中心 (Azure Security Center)
 
 Azure 資訊安全中心是統一基礎結構安全性管理系統，可強化資料中心的安全性狀態，<br>
 
