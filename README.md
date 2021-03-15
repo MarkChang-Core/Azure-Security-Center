@@ -90,4 +90,4 @@ Azure Defender 的一些主要功能：
 | Microsoft Defender for Endpoint (servers) |  | V |
 
 
-關於如何啟用 Azure Defender，請參考 [啟用方式]()
+關於如何啟用 Azure Defender，請參考 [啟用方式](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/Enable%26Disable.md)
