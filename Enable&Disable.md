@@ -16,7 +16,7 @@
 
 點擊左側刀鋒視窗中的「詳細目錄」即可查看Azure Denfender 是否已完成啟用 -
 
-![GITHUB](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/image/image3.jpg)<br>
+![GITHUB](https://github.com/MarkChang-Core/Azure-Security-Center/blob/main/image/image4.jpg)<br>
 
 # 如何關閉 Azure Defender?
 
