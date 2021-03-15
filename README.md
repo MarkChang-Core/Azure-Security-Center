@@ -1,6 +1,6 @@
 # Azure Security Center free 與 Azure Defender
 
-## Azure Security 提供兩個模式：
+Azure Security 提供兩個模式：
 
 ### 關閉 Azure Defender (免費) - 
 
