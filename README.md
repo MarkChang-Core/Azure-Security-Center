@@ -1,2 +1,2 @@
 # AzureSecurityCenter
-AzureSecurityCenter
+Azure Security Center
